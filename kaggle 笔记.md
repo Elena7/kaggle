@@ -53,7 +53,7 @@
 
   > 特征工程
 
-  ![1](C:\Users\A\Desktop\1.png)
+![特征工程](C:\Users\A\Desktop\1.png)
 
 > 特征处理
 
