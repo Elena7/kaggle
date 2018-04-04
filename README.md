@@ -1,4 +1,2 @@
 # kaggle
-主要内容：
-1.日报
-2.规划
+Data scientist或者投资分析师
